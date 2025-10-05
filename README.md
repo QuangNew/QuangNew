@@ -8,11 +8,11 @@
 ░███     ░███  ░███████  ░██  ░███████   ░███████  ░██   ░██   ░██  ░███████     ░██   ░██   ░██  ░█████░██     ░████  ░███████
 </pre>
 
-<h3 align="center">
-Hi there 👋, what breeze blew you here? Just kidding, let's me introduce myself. 
+<h3>
+Hi there 👋, what breeze blew you here? Just kidding 😛, let's me introduce myself. 
 I’m Quang from Vietnam, studying IT at Danang University of Science and Technology.
-I’m into software and web stuff.
-I can use English and Japanese at work, so feel free to reach out if you need anything!
+I’m into software and web stuff 💻.
+I can use English and Japanese at work, so feel free to reach out if you need anything! 🤠
 </h3>
 
 - 📫 How to reach me **nbxchiquang@gmail.com**
