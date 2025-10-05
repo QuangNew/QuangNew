@@ -15,8 +15,6 @@ I’m into software and web stuff.
 I can use English and Japanese at work, so feel free to reach out if you need anything!
 </h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quangnew" alt="quangnew" /></a> </p>
-
 - 📫 How to reach me **nbxchiquang@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
