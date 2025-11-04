@@ -147,12 +147,7 @@ const developer = {
 </table>
 
 <!-- Streak Stats -->
-<img width="100%" src="https://streak-stats.demolab.com/?user=QuangNew&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=F59E0B&currStreakLabel=00D9FF&sideLabels=00D9FF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" />
-
-<br/><br/>
-
-<!-- Activity Graph -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=QuangNew&bg_color=0d1117&color=00d9ff&line=00d9ff&point=f59e0b&area=true&hide_border=true" alt="Activity Graph" />
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=QuangNew&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=F59E0B&currStreakLabel=00D9FF&sideLabels=00D9FF" alt="GitHub Streak" />
 
 </div>
 
@@ -163,9 +158,20 @@ const developer = {
 
 ## 🚀 Featured Projects
 
-[![SnapCapAI](https://github-readme-stats.vercel.app/api/pin/?username=QuangNew&repo=SnapCapAI&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=F59E0B)](https://github.com/QuangNew/SnapCapAI)
-
-[![Profile README](https://github-readme-stats.vercel.app/api/pin/?username=QuangNew&repo=QuangNew&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=F59E0B)](https://github.com/QuangNew/QuangNew)
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/QuangNew/SnapCapAI">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=QuangNew&repo=SnapCapAI&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=F59E0B" alt="SnapCapAI" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/QuangNew/QuangNew">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=QuangNew&repo=QuangNew&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=F59E0B" alt="Profile README" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -228,12 +234,12 @@ timeline
 
 <br/>
 
-<!-- Contribution Snake -->
+<!-- Contribution Graph -->
 <div align="center">
 
-## 🐍 Contribution Activity
+## � Contribution Activity
 
-<img src="https://raw.githubusercontent.com/QuangNew/QuangNew/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=QuangNew&bg_color=0d1117&color=00d9ff&line=00d9ff&point=f59e0b&area=true&hide_border=true" alt="Contribution Graph" />
 
 </div>
 
