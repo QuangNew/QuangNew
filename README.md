@@ -37,11 +37,13 @@ const quangnew = {
 
 | 🎯 Achievement | 📊 Details |
 |:---|:---|
+| 🥈 **Huy Chương Bạc Code League** | ĐH Bách Khoa Đà Nẵng - 2025 |
 | 🏅 **Giải Nhì Tin Học Trẻ** | 2023 & 2024 |
 | 📺 **YouTube Channel** | 51K+ Subscribers |
 | 👥 **Community Leader** | 31K+ Group Members |
 | 🎓 **THPT QG 2024** | 25.8 điểm khối A01 (9.4 Tiếng Anh) |
 | 🏫 **High School** | HSG Tin Cấp Trường - THPT Thái Phiên |
+| 📖 **English** | IELTS 5.5 |
 
 </div>
 
@@ -80,16 +82,16 @@ const quangnew = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=QuangNew&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuangNew&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=QuangNew&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF&rank_icon=github"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuangNew&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF&hide=jupyter%20notebook,html,css"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=QuangNew&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=F59E0B&currStreakLabel=3B82F6" />
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=QuangNew&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=F59E0B&currStreakLabel=3B82F6" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=QuangNew&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF" />
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=QuangNew&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF" />
 </div>
 
 <br/>
@@ -128,15 +130,18 @@ const quangnew = {
 
 ```mermaid
 timeline
-    title My Education Path
+    title My Education & Achievements Path
     2021 : High School - THPT Thái Phiên
          : Started Competitive Programming
+         : Started YouTube Channel (51K+ subscribers)
     2023 : Giải Nhì Tin Học Trẻ 2023
          : HSG Tin Cấp Trường
     2024 : Giải Nhì Tin Học Trẻ 2024
-         : THPT QG - 25.8 điểm
+         : THPT QG - 25.8 điểm (9.4 Tiếng Anh)
+         : IELTS 5.5
          : Started DUT - CNTT Ngôn Ngữ Nhật
-    2025 : Continuing Learning Journey...
+    2025 : Huy Chương Bạc Code League - DUT
+         : Continuing Learning Journey...
 ```
 
 <br/>
@@ -164,11 +169,15 @@ timeline
 
 <br/>
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Graph
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/QuangNew/QuangNew/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/QuangNew/QuangNew/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/QuangNew/QuangNew/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/QuangNew/QuangNew/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
