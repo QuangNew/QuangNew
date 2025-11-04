@@ -147,7 +147,7 @@ const developer = {
 </table>
 
 <!-- Streak Stats -->
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=QuangNew&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=F59E0B&currStreakLabel=00D9FF&sideLabels=00D9FF" alt="GitHub Streak" />
+<img width="100%" src="https://streak-stats.demolab.com?user=QuangNew&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=F59E0B&currStreakLabel=00D9FF" alt="GitHub Streak" />
 
 </div>
 
@@ -191,9 +191,9 @@ const developer = {
       <br/><br/>
       <img src="https://img.shields.io/badge/Subscribers-51K+-red?style=for-the-badge&logo=youtube&logoColor=white" />
       <br/><br/>
-      <b>Topics:</b> Programming • Tech Reviews • Tutorials
+      <b>Topics:</b> VTuber
       <br/>
-      <b>Community:</b> 31K+ Group Members
+      <b>Community:</b> 32K+ Group Members
       <br/>
       <b>Since:</b> 2021 - Present
     </td>
@@ -239,7 +239,33 @@ timeline
 
 ## � Contribution Activity
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=QuangNew&bg_color=0d1117&color=00d9ff&line=00d9ff&point=f59e0b&area=true&hide_border=true" alt="Contribution Graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=QuangNew&theme=react-dark&bg_color=0d1117&color=00d9ff&line=00d9ff&point=f59e0b&area=true&hide_border=true" alt="Contribution Graph" />
+
+<br/>
+
+<!-- GitHub Contribution Stats -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QuangNew&theme=radical" width="100%" alt="Contribution Stats" />
+
+<br/>
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=QuangNew&theme=radical" alt="Repos per Language" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=QuangNew&theme=radical" alt="Most Commit Language" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=QuangNew&theme=radical" alt="Stats" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=QuangNew&theme=radical" alt="Productive Time" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
