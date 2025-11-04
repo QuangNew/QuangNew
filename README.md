@@ -146,6 +146,9 @@ const developer = {
   </tr>
 </table>
 
+<!-- Contribution graph -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=QuangNew&theme=react-dark&bg_color=0d1117&color=00d9ff&line=00d9ff&point=f59e0b&area=true&hide_border=true" alt="Contribution Graph" />
+
 <!-- GitHub Activity & Metrics -->
 <table>
   <tr>
@@ -240,43 +243,6 @@ timeline
     2025 : Code League Silver Medal
          : Continuing the Journey
 ```
-
-<br/>
-
-<!-- Contribution Graph -->
-<div align="center">
-
-## � Contribution Activity
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=QuangNew&theme=react-dark&bg_color=0d1117&color=00d9ff&line=00d9ff&point=f59e0b&area=true&hide_border=true" alt="Contribution Graph" />
-
-<br/>
-
-<!-- GitHub Contribution Stats -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QuangNew&theme=radical" width="100%" alt="Contribution Stats" />
-
-<br/>
-
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=QuangNew&theme=radical" alt="Repos per Language" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=QuangNew&theme=radical" alt="Most Commit Language" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=QuangNew&theme=radical" alt="Stats" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=QuangNew&theme=radical" alt="Productive Time" />
-    </td>
-  </tr>
-</table>
-
-</div>
 
 <br/>
 
