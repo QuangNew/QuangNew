@@ -146,8 +146,8 @@ const developer = {
   </tr>
 </table>
 
-<!-- Streak Stats -->
-<img width="100%" src="https://streak-stats.demolab.com?user=QuangNew&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=F59E0B&currStreakLabel=00D9FF" alt="GitHub Streak" />
+<!-- GitHub Streak -->
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=QuangNew&theme=radical&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
