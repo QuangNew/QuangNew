@@ -146,8 +146,17 @@ const developer = {
   </tr>
 </table>
 
-<!-- GitHub Streak -->
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=QuangNew&theme=radical&hide_border=true" alt="GitHub Streak" />
+<!-- GitHub Activity & Metrics -->
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QuangNew&theme=radical" alt="Contribution Timeline" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=QuangNew&theme=radical&utcOffset=7" alt="Commit Time" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
