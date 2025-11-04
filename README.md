@@ -5,7 +5,7 @@
   
   <!-- Typing Animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=650&height=70&lines=Welcome+to+my+GitHub+Profile!+👋;Competitive+Programmer+💻;Content+Creator+with+51K%2B+Subscribers+🎬;Always+Learning+New+Technologies+🚀" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=650&height=70&lines=Welcome+to+my+GitHub+Profile!;Competitive+Programmer;Content+Creator+with+51K%2B+Subscribers;Always+Learning+New+Technologies" alt="Typing SVG" />
   </a>
   
   <br/>
@@ -138,10 +138,10 @@ const developer = {
 <table>
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=QuangNew&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=F59E0B&text_color=FFFFFF&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=QuangNew&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=F59E0B&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="GitHub Stats" />
     </td>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuangNew&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=6&hide=jupyter%20notebook,html,css" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuangNew&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=6" alt="Top Languages" />
     </td>
   </tr>
 </table>
@@ -152,7 +152,7 @@ const developer = {
 <br/><br/>
 
 <!-- Activity Graph -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=QuangNew&bg_color=0D1117&color=00D9FF&line=00D9FF&point=F59E0B&area=true&hide_border=true&title_color=00D9FF&area_color=1E3A8A" alt="Activity Graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=QuangNew&bg_color=0D1117&color=00D9FF&line=00D9FF&point=F59E0B&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph" />
 
 </div>
 
@@ -163,20 +163,9 @@ const developer = {
 
 ## 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/QuangNew/SnapCapAI">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=QuangNew&repo=SnapCapAI&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=F59E0B" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/QuangNew/QuangNew">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=QuangNew&repo=QuangNew&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=F59E0B" />
-      </a>
-    </td>
-  </tr>
-</table>
+[![SnapCapAI](https://github-readme-stats.vercel.app/api/pin/?username=QuangNew&repo=SnapCapAI&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=F59E0B)](https://github.com/QuangNew/SnapCapAI)
+
+[![Profile README](https://github-readme-stats.vercel.app/api/pin/?username=QuangNew&repo=QuangNew&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=F59E0B)](https://github.com/QuangNew/QuangNew)
 
 </div>
 
@@ -219,22 +208,22 @@ const developer = {
 ```mermaid
 %%{init: {'theme':'dark', 'themeVariables': { 'primaryColor':'#0D1117', 'primaryTextColor':'#00D9FF', 'primaryBorderColor':'#00D9FF', 'lineColor':'#F59E0B', 'secondaryColor':'#1E3A8A', 'tertiaryColor':'#0D1117'}}}%%
 timeline
-    title My Learning Journey 🚀
+    title My Learning Journey
     
-    2021 : 🏫 THPT Thái Phiên
-         : 💻 Started Competitive Programming
-         : 🎬 Launched YouTube Channel
+    2021 : THPT Thai Phien
+         : Started Competitive Programming
+         : Launched YouTube Channel
     
-    2023 : 🏅 Giải Nhì Tin Học Trẻ 2023
-         : 🎯 HSG Tin Cấp Trường
+    2023 : Giai Nhi Tin Hoc Tre 2023
+         : HSG Tin Cap Truong
     
-    2024 : 🏆 Giải Nhì Tin Học Trẻ 2024
-         : 🎓 THPT QG: 25.8 điểm (9.4 Anh)
-         : 📖 IELTS 5.5
-         : 🎓 Started DUT - CNTT Nhật
+    2024 : Giai Nhi Tin Hoc Tre 2024
+         : THPT QG 25.8 diem (9.4 Anh)
+         : IELTS 5.5
+         : Started DUT CNTT Nhat
     
-    2025 : 🥈 Code League Silver Medal
-         : 🚀 Continuing the Journey...
+    2025 : Code League Silver Medal
+         : Continuing the Journey
 ```
 
 <br/>
@@ -245,9 +234,9 @@ timeline
 ## 🐍 Contribution Activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/QuangNew/QuangNew/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/QuangNew/QuangNew/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/QuangNew/QuangNew/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/QuangNew/QuangNew/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/QuangNew/QuangNew/blob/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/QuangNew/QuangNew/blob/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
