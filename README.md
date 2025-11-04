@@ -28,8 +28,8 @@
 const developer = {
     name: "Ngô Hữu Chí Quang",
     title: "IT Student & Software Developer",
-    location: "Đà Nẵng, Việt Nam 🇻🇳",
-    education: "CNTT Ngôn Ngữ Nhật - ĐH Bách Khoa Đà Nẵng",
+    location: "Da Nang, Vietnam 🇻🇳",
+    education: "IT & Japanese Language - Da Nang University of Technology",
     
     languages: {
         vietnamese: "Native 🇻🇳",
@@ -45,7 +45,7 @@ const developer = {
     ],
     
     currentFocus: "Building modern web apps with React & TypeScript",
-    motto: "Mình là người dễ gần, vui vẻ, luôn sẵn sàng học hỏi! 😄"
+    motto: "Easy-going, friendly, and always eager to learn! 😄"
 };
 ```
 
@@ -65,8 +65,8 @@ const developer = {
     </td>
     <td align="center" width="25%">
       <img src="https://img.icons8.com/fluency/96/000000/trophy.png" width="60"/>
-      <br/><b>🏅 Tin Học Trẻ</b>
-      <br/>Giải Nhì 2023 & 2024
+      <br/><b>🏅 Young IT Contest</b>
+      <br/>2nd Prize 2023 & 2024
     </td>
     <td align="center" width="25%">
       <img src="https://img.icons8.com/fluency/96/000000/youtube-play.png" width="60"/>
@@ -75,8 +75,8 @@ const developer = {
     </td>
     <td align="center" width="25%">
       <img src="https://img.icons8.com/fluency/96/000000/graduation-cap.png" width="60"/>
-      <br/><b>🎓 THPT QG 2024</b>
-      <br/>25.8 điểm (9.4 Anh)
+      <br/><b>🎓 National Exam 2024</b>
+      <br/>25.8/30 (9.4/10 English)
     </td>
   </tr>
 </table>
@@ -228,17 +228,17 @@ const developer = {
 timeline
     title My Learning Journey
     
-    2021 : THPT Thai Phien
+    2021 : Thai Phien High School
          : Started Competitive Programming
          : Launched YouTube Channel
     
-    2023 : Giai Nhi Tin Hoc Tre 2023
-         : HSG Tin Cap Truong
+    2023 : Young IT Contest 2nd Prize
+         : School Excellence Award
     
-    2024 : Giai Nhi Tin Hoc Tre 2024
-         : THPT QG 25.8 diem (9.4 Anh)
+    2024 : Young IT Contest 2nd Prize
+         : National Exam 25.8 (9.4 English)
          : IELTS 5.5
-         : Started DUT CNTT Nhat
+         : Started DUT IT Japanese Program
     
     2025 : Code League Silver Medal
          : Continuing the Journey
