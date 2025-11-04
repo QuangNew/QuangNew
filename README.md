@@ -137,22 +137,22 @@ const developer = {
 
 <table>
   <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=QuangNew&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=F59E0B&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=QuangNew&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=F59E0B&text_color=FFFFFF" alt="GitHub Stats" />
     </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuangNew&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=6" alt="Top Languages" />
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuangNew&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8&exclude_repo=QuangNew" alt="Top Languages" />
     </td>
   </tr>
 </table>
 
 <!-- Streak Stats -->
-<img width="100%" src="https://streak-stats.demolab.com/?user=QuangNew&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=F59E0B&currStreakLabel=00D9FF&sideLabels=00D9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub Streak" />
+<img width="100%" src="https://streak-stats.demolab.com/?user=QuangNew&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=F59E0B&currStreakLabel=00D9FF&sideLabels=00D9FF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" />
 
 <br/><br/>
 
 <!-- Activity Graph -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=QuangNew&bg_color=0D1117&color=00D9FF&line=00D9FF&point=F59E0B&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=QuangNew&bg_color=0d1117&color=00d9ff&line=00d9ff&point=f59e0b&area=true&hide_border=true" alt="Activity Graph" />
 
 </div>
 
@@ -233,11 +233,7 @@ timeline
 
 ## 🐍 Contribution Activity
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/QuangNew/QuangNew/blob/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/QuangNew/QuangNew/blob/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://github.com/QuangNew/QuangNew/blob/output/github-contribution-grid-snake.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/QuangNew/QuangNew/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 </div>
 
