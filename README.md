@@ -36,7 +36,7 @@ Vietnamese · English · Japanese *(N3 Level)*
 - 🏅 **Young IT Contest** — 2nd Prize, 2023 & 2024
 - 📺 **YouTube** — 51K+ Subscribers
 - 🎓 **National Exam 2024** — 25.8/30 · 9.4/10 English
-- 📖 **IELTS** — 5.5
+- 📖 **IELTS** — 5.5 with 7.0 Reading
 
 ---
 
